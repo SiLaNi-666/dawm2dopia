@@ -22,4 +22,4 @@ Autores: <Daniel Gracia>, <David Lopez>
 7. Si el `.pkl` no está en local al arrancar, `app.py` lo descarga desde GitHub (`MODEL_URL`).
 
 ## URL final
-<https://tu-servicio.onrender.com>
+<https://dawm2dopia.onrender.com>
