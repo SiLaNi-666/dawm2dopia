@@ -3,7 +3,7 @@
 Servicio web hecho con FastAPI que usa un árbol de decisión (scikit-learn) para estimar
 el precio medio de las casas de una zona de California (`MedHouseVal`, en cientos de miles de dólares).
 
-Autores: <Daniel Gracia>, <David Lopez>
+Autores: Daniel Gracia, David Lopez
 
 ## Contenido del repositorio
 - `model_training.py`: entrena el modelo (Práctica 1) y genera `modelo_california.pkl`.
