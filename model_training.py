@@ -1,7 +1,7 @@
 """Plantilla: predicción del precio de casas en California.
 
 Completa las partes marcadas con TODO. No cambies la estructura general.
-Autores: <Daniel Gracia>, <David Lopez>  (Práctica 1, reutilizado en la Práctica 2)
+Autores: Daniel Gracia, David Lopez  (Práctica 1, reutilizado en la Práctica 2)
 """
 import time
 
